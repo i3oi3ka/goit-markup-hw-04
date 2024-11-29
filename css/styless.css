@@ -269,11 +269,8 @@ address {
   color: var(--cl-hover);
 }
 
-.active-item {
-  position: relative;
-}
-
 .active {
+  position: relative;
   color: var(--cl-hover);
 }
 
